@@ -22,16 +22,4 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-20313C?style=for-the-badge&logo=krita&logoColor=white)
 
-### Cronograma (Podem haver alterações)
 
-<div align="center">
-
-| Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
-| :--- | :--- | :--- | :---: |
-| *Segunda* | Python | Introdução ao Python | 🟢 Concluído! |
-| *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
-| *Quarta* | Javascript | Continuação | 🟡 Em Progresso |
-| *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
-| *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
-
-</div>
